@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "A9XEOt9k0sokWdsDcg7XvxUisj8tFkznBWiwT6hP8p2irRw361NlGhWPG9wo+mgmVBLxPtuMiBIJGSsCfBN09g==",
+  "success": true,
+  "projectFilePath": "D:\\projects\\c#_project\\lab5\\wpf2\\wpf2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pisme\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\pisme\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\pisme\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\pisme\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
